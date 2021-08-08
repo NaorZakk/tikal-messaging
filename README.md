@@ -21,4 +21,3 @@ Body:
 ```
 
 In order to run tests, you'll need to run 'npm install' and then run 'npm test'
-Sorry for not automating the test suite in the docker comose - I didn't have enough time
